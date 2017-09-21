@@ -1,0 +1,5 @@
+Jama-1.0.3.jar
+classmexer-0.03.jar
+qsopt-1.0.jar
+
+tools.jar from WINDOWS version of jdk1.8.0_20 
